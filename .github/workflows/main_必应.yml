@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: '必应'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_806BDDF25A1843C88D56EEB0BA24B6FF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FD030E6D5324D66857406562A918024 }}
           package: .
